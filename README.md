@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: The vital parameter estimation project (Heart rate, Heart rate variability, Blood pressure, Blood oxygen level, etc.) will be deployed across hospitals in Illinois, USA and at AIIMS, India for monitoring patients remotely!
 
 
+![Visitor Count](https://profile-counter.glitch.me/anirudh-chakravarthy/count.svg)
+
+
 ### Let's talk!
 
 [<img align="left" alt="My website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -30,13 +33,11 @@ Here are some ideas to get you started:
 [<img align="left" alt="anirudh-chakravarthy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="anirudhchak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-<br />
-
-![Visitor Count](https://profile-counter.glitch.me/anirudh-chakravarthy/count.svg)
+<br /> 
 
 ---
 
-<img align="left" alt="anirudh-chakravarthy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anirudh-chakravarthy&show_icons=true&hide_border=true" />
+<img align="left" alt="'s Github Stats" src="https://github-readme-stats.vercel.app/api?username=anirudh-chakravarthy&show_icons=true&hide_border=true" />
 
 [website]: https://sites.google.com/view/anirudhchakravarthy/
 [gmail]: mailto:anirudh.s.chakravarthy@gmail.com
