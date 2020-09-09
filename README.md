@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/anirudh-chakravarthy/count.svg)
-
 ### I'm a senior year Computer Science undergraduate at BITS Pilani, India.
 - 🔭 I’m currently working on **Video Instance Segmentation at [Harvard VCG](https://vcg.seas.harvard.edu/)** and **Vital Parameter Estimation at [UIUC CVRL](http://vision.ai.illinois.edu/)**.
 - 🌱 I’m currently learning to develop new Computer Vision algorithms!
@@ -33,6 +31,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="anirudhchak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
+
+![Visitor Count](https://profile-counter.glitch.me/anirudh-chakravarthy/count.svg)
 
 ---
 
