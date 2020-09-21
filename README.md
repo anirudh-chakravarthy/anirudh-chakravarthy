@@ -26,16 +26,16 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/anirudh-chakravarthy/count.svg)
 
 ### Skills
-<img align="left" alt="Python" title="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="C" title="C" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"/>
-<img align="left" alt="Java" title="Java" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
-<img align="left" alt="PyTorch" title="PyTorch" width="28px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg"/>
-<img align="left" alt="TensorFlow" title="TensorFlow" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/>
-<img align="left" alt="Keras" title="Keras" width="28px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg"/>
-<img align="left" alt="OpenCV" title="OpenCV" width="28px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/opencv.svg"/>
-<img align="left" alt="SQL" title="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
-<img align="left" alt="R" title="R" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/>
-<img align="left" alt="Latex" title="Latex" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"/>
+<code><img alt="Python" title="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
+<code><img alt="C" title="C" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"/></code>
+<code><img alt="Java" title="Java" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/></code>
+<code><img alt="PyTorch" title="PyTorch" width="28px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg"/></code>
+<code><img alt="TensorFlow" title="TensorFlow" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/></code>
+<code><img alt="Keras" title="Keras" width="28px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg"/></code>
+<code><img alt="OpenCV" title="OpenCV" width="28px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/opencv.svg"/></code>
+<code><img alt="SQL" title="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/></code>
+<code><img alt="R" title="R" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/></code>
+<code><img alt="Latex" title="Latex" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"/></code>
 
 
 <br/> 
