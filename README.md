@@ -25,13 +25,25 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/anirudh-chakravarthy/count.svg)
 
+### Skills
+<img align="left" alt="Python" title="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img align="left" alt="C" title="C" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"/>
+<img align="left" alt="Java" title="Java" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
+<img align="left" alt="PyTorch" title="PyTorch" width="28px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg"/>
+<img align="left" alt="TensorFlow" title="TensorFlow" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/>
+<img align="left" alt="Keras" title="Keras" width="28px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg"/>
+<img align="left" alt="OpenCV" title="OpenCV" width="28px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/opencv.svg"/>
+<img align="left" alt="SQL" title="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
+<img align="left" alt="R" title="R" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/>
+<img align="left" alt="Latex" title="Latex" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"/>
+
 
 ### Let's talk!
 
-[<img align="left" alt="My website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="anirudh-chakravarthy | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg" />][gmail]
-[<img align="left" alt="anirudh-chakravarthy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="anirudhchak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="My website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
+[<img align="left" alt="anirudh-chakravarthy | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/gmail.svg"/>][gmail]
+[<img align="left" alt="anirudh-chakravarthy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="anirudhchak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 
 <br /> 
 
