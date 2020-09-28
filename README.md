@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 <code><img alt="PyTorch" title="PyTorch" width="28px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch.svg"/></code>
 <code><img alt="TensorFlow" title="TensorFlow" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"/></code>
 <code><img alt="Keras" title="Keras" width="28px" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg"/></code>
-<code><img alt="MMDetection" title="MMDetection" width="28px" src="https://raw.githubusercontent.com/open-mmlab/mmdetection/master/resources/mmdet-logo.png"/></code>
-<code><img alt="Detectron2" title="Detectron2" width="28px" src="https://raw.githubusercontent.com/facebookresearch/detectron2/master/.github/Detectron2-Logo-Horz.svg"/></code>
 <code><img alt="OpenCV" title="OpenCV" width="28px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/opencv.svg"/></code>
 <code><img alt="SQL" title="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/></code>
 <code><img alt="R" title="R" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"/></code>
