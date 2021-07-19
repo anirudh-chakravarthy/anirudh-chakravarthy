@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-### I'm a senior year Computer Science undergraduate at BITS Pilani, India.
-- 🔭 I’m currently working on **Video Instance Segmentation at [Harvard VCG](https://vcg.seas.harvard.edu/)** and **Vital Parameter Estimation at [UIUC CVRL](http://vision.ai.illinois.edu/)**.
+### I'm pursuing an MS in Computer Vision at Robotics Institute, Carnegie Mellon University.
+- 🔭 I’ve previously worked on **Video Instance Segmentation at [Harvard VCG](https://vcg.seas.harvard.edu/)**, **Detecting Adversarial Perturbations at [NUS](https://www.comp.nus.edu.sg/~mohan/)**, and **Vital Parameter Estimation at [UIUC CVRL](http://vision.ai.illinois.edu/)**.
 - 🌱 I’m currently learning to develop new Computer Vision algorithms!
-- 👯 I’m looking to collaborate on research projects.
-- 🤔 I’m looking for help with grad school applications!
-- ⚡ Fun fact: The vital parameter estimation project (Heart rate, Heart rate variability, Blood pressure, Blood oxygen level, etc.) will be deployed across hospitals in Illinois, USA and at AIIMS, India for monitoring patients remotely!
+- 👯 I’m looking to collaborate on research projects and offer assistance on grad school applications!
 
 
 ![Visitor Count](https://profile-counter.glitch.me/anirudh-chakravarthy/count.svg)
