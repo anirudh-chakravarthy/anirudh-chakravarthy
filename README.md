@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning to develop new Computer Vision algorithms!
 - 👯 I’m looking to collaborate on research projects and offer assistance on grad school applications!
 
-
-![Visitor Count](https://profile-counter.glitch.me/anirudh-chakravarthy/count.svg)
-
 ### Skills
 <code><img alt="Python" title="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/></code>
 <code><img alt="C" title="C" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"/></code>
